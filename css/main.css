@@ -1,0 +1,35 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+.main-header
+{
+	background-color:Orange;
+}
+
+#logo_header
+{
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-left:50px;
+	margin-left:auto;
+	margin-right:auto;
+	height:100%;
+	display:block;
+}
+
+#download
+{
+	
+	padding-top:30px;
+	padding-bottom:30px;
+	height:120px;
+	display:block;
+}
+
+#table
+{
+	width:100%;
+}
